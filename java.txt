@@ -38,3 +38,4 @@ The bytecode. Java is compiled to be a byte code which is the intermediate langu
 
 Q 11. What is a Just-In-Time (JIT) compiler?
 
+
